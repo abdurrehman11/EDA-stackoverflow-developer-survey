@@ -2,6 +2,11 @@
 
 Analyzed various aspects of developers life across the world on stackoverflow using data analysis libraries including `Numpy` and `Pandas` and presented the results by using attractive visualizations using data visualization libraries including `Matplotlib`, `Seaborn` and `Plotly`.
 
+# Complete Notebook View
+
+Some visualizations in Notebook are not showing on Github. To view all visualization, visit this,
+https://nbviewer.jupyter.org/github/abdurrehman11/EDA-stackoverflow-developer-survey/blob/master/Stackoverflow_Developer_Survey.ipynb
+
 # Installation
 
 ### Download the data
