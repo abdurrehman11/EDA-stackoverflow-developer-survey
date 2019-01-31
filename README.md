@@ -11,7 +11,7 @@ Analyzed various aspects of developers life across the world on stackoverflow us
 ### Install the requirements
 
 * Make sure to use Python 3.x and Jupyter Notebook.
-* Install all packages in requirements.txt using `pip install package_name` in Anaconda prompt or `!pip install package_name` in Jupyter Notebook cell.
+* Install all packages in `requirements.txt` using `pip install package_name` in Anaconda prompt or `!pip install package_name` in Jupyter Notebook cell.
 
 # Usage
 
